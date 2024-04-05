@@ -1,0 +1,23 @@
+*{
+    margin: 0
+}
+body{
+    background-color: #A0CF5F;
+}
+.box{
+    border: 1px black solid;
+    width: 28%;
+    margin: 2%;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    background-color: #007482 ;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+p{
+    text-align: center;
+}
