@@ -1,5 +1,16 @@
+
 *{
-    margin: 0;
+    margin: 0
+}
+.vision{
+    background-color: #58c6d2;
+    border-radius: 10px;
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+}
+.bg{
+    background-color: #bfd99a;
 }
 li{
     list-style-type: none;
@@ -36,22 +47,17 @@ a{
     font-size: 18px;
     font-weight: bold;
 }
-.box{
-    border: 1px black solid;
-    width: 28%;
-    margin: 2%;
-    display: inline-block;
-}
 h1{
     text-align: center;
     background-color: #007482;
     padding: 1rem;
 }
-img{
-    width: 100%;
-    height: auto;
+h2{
+    font-size: 2rem;
 }
 p{
-    padding: 1rem;
-    text-align: center;
+    font-size: 1.25rem;
+}
+.content{
+    padding: 10px;
 }
